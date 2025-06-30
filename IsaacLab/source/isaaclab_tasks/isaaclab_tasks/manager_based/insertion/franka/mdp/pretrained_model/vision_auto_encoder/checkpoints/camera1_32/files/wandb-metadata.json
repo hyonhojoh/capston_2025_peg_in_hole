@@ -1,0 +1,18 @@
+{
+    "os": "Linux-5.15.0-136-generic-x86_64-with-glibc2.35",
+    "python": "3.10.16",
+    "heartbeatAt": "2025-06-18T11:38:11.928048",
+    "startedAt": "2025-06-18T11:38:10.966942",
+    "docker": null,
+    "gpu": "NVIDIA RTX A6000",
+    "gpu_count": 3,
+    "cpu_count": 64,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/hyunho_RCI/ai_ws/src/image_feature_compress/src/train.py",
+    "codePath": "src/train.py",
+    "host": "aigpu0411",
+    "username": "hyunho_RCI",
+    "executable": "/home/hyunho_RCI/miniconda3/envs/isaaclab/bin/python"
+}

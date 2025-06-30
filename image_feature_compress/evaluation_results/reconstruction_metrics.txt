@@ -1,0 +1,3 @@
+Validation Set Results for Autoencoder (Run ID: 20250618-125105):
+  Average MSE per sample: 0.003983
+  Average Cosine Similarity: 0.999701
